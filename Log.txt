@@ -1,0 +1,70 @@
+INFO - Verificando consistência dos dados...
+INFO - Verificando consistência dos dados...
+INFO - Aluno adicionado: 
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: May
+INFO - Aluno adicionado: May
+INFO - Aluno adicionado: mAY
+ERRO - Erro ao analisar os argumentos: Unrecognized option: -addAlunocpf
+ERRO - Erro ao analisar os argumentos: Unrecognized option: -addCPF
+INFO - Aluno adicionado: Ama
+INFO - Aluno adicionado: MAY
+INFO - Aluno adicionado: m
+INFO - Aluno adicionado: m
+INFO - Aluno adicionado: ok
+INFO - Aluno adicionado: k
+INFO - Aluno adicionado: ok
+INFO - Aluno adicionado: 
+INFO - Professor adicionado: ol
+INFO - Aluno adicionado: ok
+INFO - Aluno adicionado: ok
+ERRO - Erro ao analisar os argumentos: Unrecognized option: -addAlunojava
+INFO - Aluno adicionado: java -cp ".;libs/commons-cli-1.9.0.jar" br.fsa.GerenciaFaculdade -addAluno
+ERRO - Erro ao analisar os argumentos: Missing argument for option: editaAluno
+INFO - Aluno adicionado: o
+INFO - Aluno adicionado: ok
+INFO - Aluno adicionado: ok
+INFO - Aluno adicionado: ppoppo
+INFO - Aluno adicionado: kok
+INFO - Aluno adicionado: may
+INFO - Curso adicionado: Eng Computa�ao
+INFO - Aluno adicionado: May
+INFO - Aluno adicionado: May
+INFO - Aluno adicionado: May
+INFO - Matéria adicionada: F�SICA
+INFO - Nota adicionada para aluno: May na matéria: F�SICA
+INFO - Média calculada para aluno: May na matéria: F�SICA - Média: 14.000000000000002 - Status: APROVADO
+INFO - Aluno adicionado: May
+INFO - Matéria adicionada: mat
+INFO - Nota adicionada para aluno: May na matéria: mat
+INFO - Média calculada para aluno: May na matéria: mat - Média: 10.0 - Status: APROVADO
+INFO - Aluno adicionado: may
+INFO - Matéria adicionada: MAT
+INFO - Nota adicionada para aluno: may na matéria: MAT
+INFO - Média calculada para aluno: may na matéria: MAT - Média: 10.0 - Status: APROVADO
+INFO - Aluno adicionado: may
+INFO - Matéria adicionada: MA
+INFO - Nota adicionada para aluno: may na matéria: MA
+INFO - Média calculada para aluno: may na matéria: MA - Média: 10.0 - Status: APROVADO
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: Victor
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: Victor 
+INFO - Aluno adicionado: Mayra
+INFO - Professor adicionado: Felipe
+INFO - Aluno adicionado: Mayra
+INFO - Aluno adicionado: Victor
+INFO - Curso adicionado: Engenharia da Computacao
+INFO - Curso adicionado: Engenharia de Producao
+INFO - Matéria adicionada: Programacao Orientada a Objetos
+INFO - Matéria adicionada: Estrutura de Dados
+INFO - Nota adicionada para aluno: Mayra na matéria: Estrutura de Dados
+INFO - Média calculada para aluno: Mayra na matéria: Estrutura de Dados - Média: 10.0 - Status: APROVADO
+INFO - Matéria adicionada: 225
+INFO - Matéria adicionada: ///
+INFO - Nota adicionada para aluno: Mayra na matéria: Estrutura de Dados
+INFO - Média calculada para aluno: Mayra na matéria: Estrutura de Dados - Média: 8.4 - Status: APROVADO
+INFO - Curso adicionado: 0/
+INFO - Professor adicionado: po
